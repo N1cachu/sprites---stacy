@@ -1,0 +1,57 @@
+{
+    "9Fr!IaN;+fd)=HHV}gKf": {
+        "data": "hwQOABAAAAAAAAAAAAAAAAAA////4EQAAPBbVVVOTQAAv1X1VP////BbVbXRu2Hs8FtV9N+3YezwVUVE3RdhD/BVRUTdd28P8FtV9N9Eb+zwW1W10dRv7AC/VfVV3f//APBbVVX/AAAAAP///wAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Standing still"
+    },
+    ":s@8jwM8wMQUT}lPh[[p": {
+        "data": "hwQOABAAAAAAAAAAAAAAAAAA//8AAAAAAP9V/w8AAADwVVXu////AP9VRUTdHmEPX1VVRN0UZ/xfVVX13xRn7L9VVbXR5Hfsv1VV9UTe7ezwW1VF/d7t//C/VVVUT/4AAP+7VVUPAAAA8P///wAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Standing still - left"
+    },
+    "{olavy=Vpd4WVbwx=KWP": {
+        "data": "hwQOABAAAAAAAAAAAAAAAADw////AAAAAP9VVfUAAADwX1VF9E/+AP9VVUX93u3/X1VV9UTe7exfVVW10eR37F9VVfXfFGfsX1VVRN0UZ/z/VUVE3R5hD/BVVe7///8AAP9V/w8AAAAAAP//AAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Standing still - right"
+    },
+    "-R8J~TjkB~d_L{wZYp*4": {
+        "data": "hwQOABAAAAAAAAAAAAAAAAAA8P8PAAAAAPBf9f8A8A8Av1VVX//P/PBfVUTU7WHs8FVVRdRNYebwVVVV/01n//BVVVURTWcP8FtVVU/kd/wAv1VV1NXt5gD/W1VE1e3vAPC/u1VF/g8AAP///w8AAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Walking - left"
+    },
+    "t/h:@K0S?BY_+FYvs": {
+        "data": "hwQOABAAAAAAAAAAAAAAAAAA////DwAAAPBfVVVF/g8A/1VVRN/t//BfVVXU3+3v8FVVVU/kdwzwVVVVG01nDPBVVVX/TWcM8FVVRdRNYezwX1VE1O1h7ABfVVVf////APBf9f8A8A8AAPD/DwAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Walking - right"
+    },
+    "image1": {
+        "data": "hwQOABAAAAAAAAAAAAAAAAAA////AAAAAPAiIiL/AAAALyIiIiL///AiIiIiIiIi8CIiIiIiIiLwIiIiIiIiD/AiIiIiIiIP8CIiIiIiIiLwIiIiIiIiIgAvIiIiIv//APAiIiL/AAAAAP///wAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Standing - hurt"
+    },
+    "image2": {
+        "data": "hwQOABAAAAAAAAAAAAAAAAAA8P8PAAAAAPAv8v8A8A8ALyIiL/8v8vAvIiIiIiIi8CIiIiIiIiLwIiIiIiIi//AiIiIiIiIP8CIiIiIiIvIALyIiIiIiIgD/IiIiIiIvAPAvIiIi8g8AAP///w8AAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Walking left - hurt"
+    },
+    "image3": {
+        "data": "hwQOABAAAAAAAAAAAAAAAAAA////DwAAAPAvIiIi8g8A/yIiIiIi//AvIiIiIiIi8CIiIiIiIgLwIiIiIiIiAvAiIiIiIiIC8CIiIiIiIiLwLyIiIiIiIgAvIiIv////APAv8v8A8A8AAPD/DwAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Walking right - hurt"
+    },
+    "image4": {
+        "data": "hwQOABAAAAAAAAAAAAAAAAAA//8AAAAAAP8i/w8AAADwIiIi////AP8iIiIiIiIPLyIiIiIiIvIvIiIiIiIiIi8iIiIiIiIiLyIiIiIiIiLwIiIiIiIi//AvIiIiL/IAAP8iIiIPAAAA8P///wAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Standing still left - hurt"
+    },
+    "image5": {
+        "data": "hwQOABAAAAAAAAAAAAAAAADw////AAAAAP8iIvIAAADwLyIi8i/yAP8iIiLyIiL/LyIiIiIiIiIvIiIiIiIiIi8iIiIiIiIiLyIiIiIiIvL/IiIiIiIiD/AiIiL///8AAP8i/w8AAAAAAP//AAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Standing still right - hurt"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
